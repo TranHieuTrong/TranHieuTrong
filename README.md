@@ -1,10 +1,7 @@
 <div align="center">
 
-  <!-- Header Typing SVG -->
-  <a href="https://github.com/TranHieuTrong">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=50&lines=Hi+👋,+I'm+Tran+Hieu+Trong+(HChong+Dev);MMO+Freelancer+%26+Full-Stack+Developer;Next.js+•+React+•+Node.js+•+Python;Crafting+Automation+Tools+%26+Modern+Web+Apps" alt="Typing SVG" />
-  </a>
-
+  <!-- Header Title -->
+  <h1>Hi, I'm Tran Hieu Trong (HChong Dev) 👋</h1>
   <p>
     <strong>Full-Stack Web & Mobile Developer | MMO Freelancer | Automation Specialist</strong><br/>
     Ho Chi Minh City, Vietnam
@@ -166,6 +163,6 @@
   </a>
 
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <p><i>"Turning ideas into high-performance digital tools."</i></p>
 
 </div>
