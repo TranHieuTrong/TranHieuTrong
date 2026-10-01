@@ -3,7 +3,7 @@
   <!-- Header Title -->
   <h1>Hi, I'm Tran Hieu Trong (HChong Dev) 👋</h1>
   <p>
-    <strong>Full-Stack Web & Mobile Developer | MMO Freelancer | Automation Specialist</strong><br/>
+    <strong>Full-Stack Web & Mobile Developer | MMO Freelancer | Photographer & Visual Creator</strong><br/>
     Ho Chi Minh City, Vietnam
   </p>
 
@@ -39,11 +39,13 @@
 
 ### Về Tôi / About Me
 
-- **MMO Freelancer & Full-Stack Developer**: Đam mê nghiên cứu và lập trình các giải pháp phần mềm thực chiến, các công cụ tự động hóa MMO, phân tích và xử lý chuỗi dữ liệu lớn.
-- **Thế mạnh công nghệ**: Chuyên sâu phát triển ứng dụng web hiện đại (**Next.js, React, Tailwind CSS**), mobile app (**React Native, Android**) và hệ thống backend linh hoạt (**Node.js, Express, Python, MongoDB**).
-- **Sản phẩm & Tiện ích**: Tác giả của **Tiện Ích VN** – nền tảng đa tiện ích all-in-one tích hợp tạo mã **VietQR Napas 247**, theo dõi thị trường tài chính (**Vàng SJC, Crypto, Ngoại tệ**), Lịch Âm Dương Can Chi, xử lý file văn bản và trích xuất dữ liệu tự động.
-- **Mục tiêu**: Tối ưu hóa hiệu suất làm việc bằng công nghệ, biến ý tưởng phức tạp thành những sản phẩm đơn giản, trực quan và đem lại giá trị thực tế.
-- **Sẵn sàng hợp tác**: Các dự án Freelance, phát triển Web App / Tool MMO, tích hợp API thanh toán & tiện ích số.
+- **Full-Stack Developer & MMO Freelancer**: Đam mê nghiên cứu và lập trình các giải pháp phần mềm thực chiến, công cụ tự động hóa MMO, phân tích và xử lý chuỗi dữ liệu lớn.
+- **Nhiếp ảnh & Sáng tạo thị giác**: Người sáng lập **[HCHONG FOTO](https://hchongfoto.vercel.app/)** – kết hợp giữa nghệ thuật nhiếp ảnh cảm xúc (chân dung, ảnh kỷ yếu tốt nghiệp, áo dài, phim ngắn) với kỹ thuật phát triển web hiện đại.
+- **Sản phẩm Web & Công cụ số**:
+  - **[HCTik Downloader](https://hctik.vercel.app/)**: Công cụ tải video TikTok không watermark Full HD, tải trọn bộ album ảnh slide TikTok dạng JPG trực tiếp và tách âm thanh MP3 320kbps siêu tốc.
+  - **Tiện Ích VN 4.0**: Nền tảng đa tiện ích all-in-one tích hợp tạo mã **VietQR Napas 247**, theo dõi thị trường tài chính (**Vàng SJC, Crypto, Ngoại tệ**), Lịch Âm Dương Can Chi và xử lý tài liệu văn phòng.
+- **Thế mạnh công nghệ**: Chuyên sâu phát triển ứng dụng web hiện đại (**Next.js, React, Tailwind CSS**), mobile app (**React Native, Android**) và backend linh hoạt (**Node.js, Express, Python, MongoDB**).
+- **Sẵn sàng hợp tác**: Các dự án Freelance Web App, công cụ MMO tự động hóa, tích hợp API & các dự án hình ảnh nghệ thuật.
 
 ---
 
@@ -85,6 +87,40 @@
 ### Dự Án Tiêu Biểu / Highlighted Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://hctik.vercel.app/" target="_blank">HCTik Downloader Pro</a></h4>
+      <p align="center">
+        <b>Tải Video TikTok Không Logo, MP3 & Ảnh HD</b><br/>
+        🔗 <a href="https://hctik.vercel.app/" target="_blank">hctik.vercel.app</a>
+      </p>
+      <ul>
+        <li><b>Tải Video Không Logo</b>: Giải mã và tải video TikTok chuẩn Full HD không watermark hay ID người dùng.</li>
+        <li><b>Tải Trọn Bộ Ảnh Slide HD</b>: Tải toàn bộ ảnh album TikTok trực tiếp định dạng JPG (không cần giải nén).</li>
+        <li><b>Tách Nhạc MP3 320kbps</b>: Chuyển đổi và tải âm thanh chất lượng cao làm nhạc chuông tiện lợi.</li>
+        <li><b>PWA & Bảo Mật</b>: Cài đặt dùng như ứng dụng trên điện thoại, kiến trúc Stateless không lưu trữ dữ liệu người dùng.</li>
+      </ul>
+      <p align="center">
+        <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>TikTok API</code> • <code>PWA</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://hchongfoto.vercel.app/" target="_blank">HCHONG FOTO</a></h4>
+      <p align="center">
+        <b>Photographer, Visual Creator & Web Hub</b><br/>
+        🔗 <a href="https://hchongfoto.vercel.app/" target="_blank">hchongfoto.vercel.app</a>
+      </p>
+      <ul>
+        <li><b>Nghệ Thuật Thị Giác</b>: Trưng bày các tác phẩm chân dung nghệ thuật, phóng sự kỷ yếu, áo dài truyền thống & phim ngắn Đà Lạt.</li>
+        <li><b>Bảng Giá Minh Bạch</b>: Hệ thống báo giá chi tiết từng gói dịch vụ chụp ảnh cá nhân, kỷ yếu và quay phim.</li>
+        <li><b>Hiệu Năng Cao Cấp</b>: Tối ưu tải ảnh sắc nét qua CDN Cloudinary, hỗ trợ giao diện Dark / Light Mode sang trọng.</li>
+        <li><b>Đặt Lịch & Kết Nối</b>: Tích hợp hệ thống liên hệ đặt lịch chụp nhanh chóng qua Zalo, Telegram & Form.</li>
+      </ul>
+      <p align="center">
+        <code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>Cloudinary</code> • <code>Portfolio</code>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">Tiện Ích VN 4.0</h4>
